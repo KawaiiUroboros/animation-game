@@ -1,4 +1,4 @@
-# Animation and Keyboard
+# MEme and Keyboard
 
 For this Hackathon, our objetive was to use [Paper.js](http://paperjs.org/).
 
