@@ -2,11 +2,9 @@
 
 For this Hackathon, our objetive was to use [Paper.js](http://paperjs.org/).
 
+THis is A MEMEboard. Tap keys and see how the meaning of your life is changing
+(fow whom who doesn't get: pics and quotes are changing)
 
-Finding a good idea to work on was really challenging, and It was my first time working with open source vector graphics scripting framework.
+![main](https://i.imgur.com/71sA11V.png)
 
-I had a coding/art project mulling about in my head and thought this was a great opportunity to build it. I was thinking to combine canvas, animation and sound. So I decided to create this [project](https://yasamanloghmani.github.io/animation-game/)
 
-![main](https://imgur.com/wahFo5M.png)
-
-![responsive](https://imgur.com/DX6dWli.png)
