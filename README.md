@@ -1,6 +1,8 @@
 # MEme and Keyboard
 I'm only starting at web, don't beat me
+
 ------dangerous--------
+
 For this Hackathon, our objetive was to use [Paper.js](http://paperjs.org/).
 
 THis is A MEMEboard. Tap keys and see how the meaning of your life is changing
